@@ -148,9 +148,9 @@ python -m pip install pyspark
 2. Obtener **por un canal institucional autorizado** los CSV necesarios y ubicarlos localmente junto al notebook, con estos nombres exactos:
 
    ```text
-   GLPI-2024(2).csv
-   GLPI-2025(4).csv
-   GLPI-2026(2).csv
+   GLPI-2024.csv
+   GLPI-2025.csv
+   GLPI-2026.csv
    ```
 
 3. Abrir `Avance_Proyecto_GLPI_Ciencia_Datos_Big_Data.ipynb` en Jupyter o VS Code y seleccionar el intérprete de Python con las dependencias instaladas.
